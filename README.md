@@ -1,4 +1,4 @@
-gittest
+Gittest
 =======
 
-test git usage
+Test the usage of git.
